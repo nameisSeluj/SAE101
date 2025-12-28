@@ -1,2 +1,0 @@
-# SAE101
-Sokoban
